@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinzhou Yang / wyfdc888"
+title                    : "Jinzhou Yang"
 title_separator          : "-"
 name                     : &name "  Jinzhou Yang"
 description              : &description "PhD Candidate, Wine Lover"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinzhou  Yang"
   avatar           : "photo.png"
-  bio              : "I am a PhD candidate at the Institute for Data Science (Faculty of Science and Engineering) at Maastricht University. My main research interest is the quality assessment of knowledge graphs, especially Semantic Web technologies as well as FAIR knowledge graphs.  "
+  bio              : "I am a PhD candidate at the Institute for Data Science (Faculty of Science and Engineering) at Maastricht University."
   location         : "Maastricht"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
